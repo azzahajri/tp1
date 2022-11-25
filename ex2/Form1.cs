@@ -14,7 +14,7 @@ namespace ex2
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); 
            // this.radioButton1.CheckedChanged += new System.EventHandler(this.affiche);
            // this.radioButton2.CheckedChanged += new System.EventHandler(this.affiche);
             //this.radioButton3.CheckedChanged += new System.EventHandler(this.affiche);
